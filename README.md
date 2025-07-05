@@ -22,7 +22,7 @@ I'm a passionate **Frontend Developer** with expertise in modern web technologie
 - 💻 Frontend Development Specialist
 - 📱 Responsive Design Expert
 - 🔧 Modern Web Technologies Enthusiast
-- 🌟 2+ years of experience in web development
+- 🌟 1+ years of experience in web development
 - 🏆 Completed 10+ projects with 100% client satisfaction
 
 <div align="center">
@@ -116,10 +116,10 @@ I'm a passionate **Frontend Developer** with expertise in modern web technologie
   <a href="https://www.facebook.com/prem.thakur1618/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/Prem-Thakur786/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://premchand786.netlify.app">
+  <a href="https://prem-thakur1618.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.tiktok.com/@prem.thakur16">
