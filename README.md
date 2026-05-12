@@ -93,7 +93,12 @@ I'm a passionate **Frontend Developer** with expertise in modern web technologie
 
 <div align="center">
   <a href="https://landing-page-thlr.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PremChand34555&repo=landing-page&theme=react&hide_border=true" alt="Landing Page" />
+    <img 
+      src="https://github.com/user-attachments/assets/3be06e20-e141-465a-9b14-f926391b8512" 
+      alt="Landing Page"
+      width="952"
+      height="413"
+    />
   </a>
 </div>
 
