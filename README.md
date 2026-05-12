@@ -107,7 +107,7 @@ I'm a passionate **Frontend Developer** with expertise in modern web technologie
   <a href="https://www.linkedin.com/in/prem-chand-411aab211/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/PremThakur1618">
+  <a href="https://x.com/PremChand161080">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/prem.thakur1618/">
@@ -122,7 +122,7 @@ I'm a passionate **Frontend Developer** with expertise in modern web technologie
   <a href="https://prem-thakur1618.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.tiktok.com/@prem.thakur16">
+  <a href="https://www.tiktok.com/@prem.thakur1618">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
