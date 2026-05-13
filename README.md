@@ -15,15 +15,19 @@
 
 ## 🚀 About Me
 
-> *"Crafting digital experiences that leave a lasting impression"*
+> *"Building smart digital solutions with code & automation"*
 
-I'm a passionate **Frontend Developer** with expertise in modern web technologies. I specialize in creating responsive, user-friendly interfaces that provide exceptional user experiences.
+I'm a passionate **Full-Stack Developer** focused on building modern web applications, automation systems, and scalable digital solutions. I enjoy turning ideas into functional products that improve efficiency, user experience, and business growth.
 
-- 💻 Frontend Development Specialist
-- 📱 Responsive Design Expert
-- 🔧 Modern Web Technologies Enthusiast
-- 🌟 1+ years of experience in web development
-- 🏆 Completed 10+ projects with 100% client satisfaction
+* 💻 Full-Stack Web Developer
+* ⚡ Automation & Workflow Solutions
+* 🌐 React, JavaScript & Modern Web Technologies
+* 🔗 API Integration & Backend Systems
+* 📱 Responsive & User-Friendly Web Applications
+* 🚀 Passionate About Scalable Digital Solutions
+* 🛠️ Continuous Learner & Problem Solver
+* 🎯 Focused on Building Real-World Business Solutions
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
